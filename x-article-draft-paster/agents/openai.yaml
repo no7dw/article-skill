@@ -1,0 +1,4 @@
+interface:
+  display_name: "X Article Draft Paster"
+  short_description: "Prepare and paste X Article drafts"
+  default_prompt: "Use $x-article-draft-paster to prepare a Markdown article and paste it into an empty X Article draft."
