@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mermaid to Image"
+  short_description: "Render Mermaid diagrams as PNG images"
+  default_prompt: "Convert Mermaid diagrams in this Markdown file into PNG images and replace the Mermaid code blocks with image links."
